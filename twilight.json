@@ -1,7 +1,7 @@
 {
     "name": {
-        "en": "Ahmad188e",
-        "ar": "احمد الثيم"
+        "ar": "GOT Theme",
+        "en": "Ahmad188e"
     },
     "repository": "https://github.com/RKX8/ahmad188e",
     "author_email": "wali05028@gmail.com",
@@ -1142,7 +1142,7 @@
     ],
     "support_url": null,
     "description": {
-        "en": "",
-        "ar": ""
+        "ar": null,
+        "en": null
     }
 }
